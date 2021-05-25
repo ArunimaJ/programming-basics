@@ -1,0 +1,81 @@
+    1  cd..
+    2  mkdir training
+    3  mkdir My-Designs
+    4  mkdir My-Blog
+    5  explorer .
+    6  cd training
+    7  git clone https://github.com/ArunimaJ/programming-basics.git
+    8  cd programming-basics\
+
+
+Generating clink initial settings in "D:\Softwares\cmder\config\clink_settings"
+        1 file(s) copied.
+Additional *.lua files in "D:\Softwares\cmder\config" are loaded on startup.
+Creating initial user_aliases store in "D:\Softwares\cmder\config\user_aliases.cmd"...
+        1 file(s) copied.
+Running Git for Windows one time Post Install....
+"running post-install"
+'C:\WINDOWS\system32\drivers\etc\hosts' -> '/etc/hosts'
+'C:\WINDOWS\system32\drivers\etc\protocol' -> '/etc/protocols'
+'C:\WINDOWS\system32\drivers\etc\services' -> '/etc/services'
+'C:\WINDOWS\system32\drivers\etc\networks' -> '/etc/networks'
+The batch file cannot be found.
+Creating user startup file: "D:\Softwares\cmder\config\user_profile.cmd"
+        1 file(s) copied.
+
+D:\Softwares\cmder
+λ cd..
+
+D:\Softwares
+λ cd..
+
+D:\
+λ mkdir training
+
+D:\
+λ mkdir My-Designs
+
+D:\
+λ mkdir My-Blog
+
+D:\
+λ explorer .
+
+D:\
+λ cd training
+
+D:\training
+λ git clone https://github.com/ArunimaJ/programming-basics.git
+Cloning into 'programming-basics'...
+warning: You appear to have cloned an empty repository.
+
+D:\training
+λ cd programming-basics\
+
+D:\training\programming-basics (master -> origin)
+λ history
+    1  cd..
+    2  mkdir training
+    3  mkdir My-Designs
+    4  mkdir My-Blog
+    5  explorer .
+    6  cd training
+    7  git clone https://github.com/ArunimaJ/programming-basics.git
+    8  cd programming-basics\
+
+D:\training\programming-basics (master -> origin)
+λ history
+    1  cd..
+    2  mkdir training
+    3  mkdir My-Designs
+    4  mkdir My-Blog
+    5  explorer .
+    6  cd training
+    7  git clone https://github.com/ArunimaJ/programming-basics.git
+    8  cd programming-basics\
+
+D:\training\programming-basics (master -> origin)
+λ history > commands.txt
+
+D:\training\programming-basics (master -> origin)
+λ D:\training\programming-basics (master -> origin) λ history > commands.txt  D:\training\programming-basics (master -> origin)
