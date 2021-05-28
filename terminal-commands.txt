@@ -1,0 +1,26 @@
+ls
+
+dir
+
+mkdir
+
+cd 
+
+cd..
+
+=========================================
+
+Homework
+
+cp => copy folder and files
+
+.......
+
+mv
+.......
+
+rm
+.......
+
+rename
+.......
