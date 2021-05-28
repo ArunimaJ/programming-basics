@@ -26,3 +26,38 @@ Visual Code Programming. Recently, I finally pushed a file in the GitHub to shar
 the knowledge of the icons in Vs Code and the in-built extensions used in it. In the last class, I learnt how to clone, 
 commit and push the code from both platforms; Visual code and Command line.  Just these five classes opened a new door 
 of opportunities for me and as I continue…I know there will be many more. 
+
+
+### Here are some of the commands that I learnt.
+
+> cd : change directory 
+
+```
+C:\users
+cd c:\users\projects
+
+```
+> mkdir : create a new directory 
+
+```
+C:\users
+mkdir School 
+mkdir D:\projects\school
+
+```
+> ls : to view a list of files in the directory 
+
+```
+C:\users
+ls 
+filter files based on keyword (wildcard)
+ls m*
+show me all the files starting with 'm'
+ls *m 
+show me all the files ending with 'm' 
+ls m*n 
+show me all the files that start with 'm' and end with 'n' 
+
+```
+
+  
