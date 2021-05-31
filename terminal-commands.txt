@@ -17,10 +17,11 @@ cp => copy folder and files
 .......
 
 mv
-.......
+....... mv file1 file2
 
 rm
-.......
+.......rm -r (name of directory)
+recursive 
 
 rename
 .......

@@ -1,0 +1,6 @@
+[0m[01;34mAction[0m/
+AMAIRApassportpic.jpg
+BookIndex.txt
+[01;34mEducation[0m/
+[01;34mFiction[0m/
+[01;34mScience[0m/
