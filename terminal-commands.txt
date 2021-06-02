@@ -21,7 +21,7 @@ mv
 
 rm
 .......rm -r (name of directory)
-recursive 
+recursive                                                                  
 
 rename
 .......
