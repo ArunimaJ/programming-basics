@@ -1,0 +1,62 @@
+declare -a countries
+
+countries[0]="India"
+countries[1]="Africa"
+countries[2]="Japan"
+
+
+# Street, 0 27 
+
+#countries[3]
+
+#echo ${countries[2]}
+
+picker variable
+
+picks 0
+picks  1
+picks  2
+
+
+for dummyIndex in "${!countries[@]}"
+do
+   echo ${countries[$countryKeyIndex]}
+done
+
+
+for countryName in India Africa Japan
+do
+   echo ${countryName}
+done
+
+mom_arrived="n"
+
+while [ $mom_arrived != "y" ]
+do
+
+echo "Reading the Book"
+read -p "Does Mom arried ? " mom_arrived
+
+done
+
+# Mini Computer : 365, 24X7
+
+
+# Loop Constructs
+
+for loop : always a fixed condition (5 times, based on length array)
+while loop : Do this until this condition meets
+do while : do the work first and then check the condition
+
+
+Variables
+String Initialization
+Character vs String
+Arrays
+For loop
+While Loop
+Do While Loop
+
+Home Work 
+-- Review the newly added script airline-ticket.sh
+-- Understand the Script and then explain in the next session
