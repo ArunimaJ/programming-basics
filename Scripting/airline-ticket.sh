@@ -1,16 +1,16 @@
-booking_name=""
-booking_age=""
-booking_destination=""
-booking_departing=""
-booking_passenger_num=""
+booking_name="12D"
+booking_age="14"
+booking_destination="Delhi"
+booking_departing="12th"
+booking_passenger_num="16578"
 
-passenger_name=""
-passenger_age=""
-passenger_adress=""
-passenger_cell=""
-passenger_id=""
-passenger_econtact=""
-passenger_meal=""
+passenger_name="Arunima"
+passenger_age="14"
+passenger_adress="Chandigarh"
+passenger_cell="9814057890"
+passenger_id="682623729"
+passenger_econtact="988800912"
+passenger_meal="Veg"
 
 compute_ticket_cost() {
     passenger_items=$0
@@ -41,7 +41,7 @@ collect_booking_user_details() {
     booking_passenger_num=$((passenger_num))
 }
 
-collect_booking_user_details
+collect_booking_user_details 
 echo "$booking_name, $user_age, $destination, $departing, $passenger_num"
 
 passenger_count=0
